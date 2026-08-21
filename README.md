@@ -78,7 +78,7 @@ C:\Windows\System32\drivers\etc\hosts.x31.bak
 İndirdiğiniz `x31.exe` dosyasının değiştirilmediğini doğrulamak için SHA-256 değerini kontrol edebilirsiniz.
 
 ```text
-a2df34cb2a615dfc88952f231db0d60734555482c1dde6587c9bc7df53799599
+cbb2cf4f0e2f4db86154c603ab1adf9c2de998bb954004e31817a9ad858b337f
 ```
 
 PowerShell üzerinden kontrol etmek için:
